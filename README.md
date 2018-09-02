@@ -4,11 +4,13 @@
 
 本课程主要讨论了相应的风险模型及其应用，主要包括
 
-- **损失概率**预测模型
-- **损失次数**预测模型
-- **损失金额**预测模型
-- **巨灾损失**建模问题
-- **相依风险**建模问题
+- **风险度量**
+- **损失次数、损失金额、累积损失模型**
+- **极值理论与巨灾损失**
+- **相依风险模型：copula及其应用**
+- **损失预测模型：广义线性模型**
+- **贝叶斯风险模型**
+
 
 在实证研究中，以 **R 语言**为计算工具，提供了详细的程序代码，方便读者再现完整的计算过程。
 
@@ -22,7 +24,11 @@
 
 * [练习数据集](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/tree/master/%E3%80%8A%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B%E3%80%8B%E7%BB%83%E4%B9%A0%E6%95%B0%E6%8D%AE%E9%9B%86)
 
-* [参考文献]()
+## [阅读文献]
+- An extreme value approach for modeling operational risk losses depending on covariates
+- Private information in healthcare utilization：specification of a copula-based hurdle model
+- Multivariate Frequency-Severity Regression Models in Insurance
+
 
 * [选课名单]()
 
