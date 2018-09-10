@@ -18,12 +18,20 @@
 - [Week 1,2 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
 	- VaR、TVaR、PH风险度量、Wang风险度量、 扭曲风险度量
 	- 期望值原理、标准差原理、方差原理、指数原理、零效用原理
-- [Week 3 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
+- [Week 3 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/03%20%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.pptx)
+	- 伽马分布、逆高斯分布、Tweedie分布、对数正态分布、帕累托分布
+	- 分布变换：线性变换、幂变换、指数变换
+	- 混合分布
+	- 组合分布
+	- 参数估计方法：极大似然法、矩估计法、分位数配比法、最小距离法
+
 
 
 ## R代码和数据集
 -  [Week 1 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
-- [Week 1 - 损失模型]()
+-  [Week 2 - 损失金额模型](https://github.com/lizhengxiao/)
+
+
 - [附：教材数据集](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/tree/master/%E3%80%8A%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B%E3%80%8B%E6%95%99%E6%9D%90%E6%95%B0%E6%8D%AE%E9%9B%86)
 - [附：练习数据集](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/tree/master/%E3%80%8A%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B%E3%80%8B%E7%BB%83%E4%B9%A0%E6%95%B0%E6%8D%AE%E9%9B%86)
 
