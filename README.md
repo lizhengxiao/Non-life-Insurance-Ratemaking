@@ -14,10 +14,11 @@
 
 
 ## 课程讲义
-1. [Week 1 - 课程简介](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/01%20%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B.pptx)
-2. [Week 1,2 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
+- [Week 1 - 课程简介](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/01%20%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B.pptx)
+- [Week 1,2 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
 	- VaR、TVaR、PH风险度量、Wang风险度量、 扭曲风险度量
 	- 期望值原理、标准差原理、方差原理、指数原理、零效用原理
+- [Week 3 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
 
 
 ## R代码和数据集
