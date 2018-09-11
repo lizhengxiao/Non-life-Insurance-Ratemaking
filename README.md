@@ -36,13 +36,29 @@
 - [附：练习数据集](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/tree/master/%E3%80%8A%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B%E3%80%8B%E7%BB%83%E4%B9%A0%E6%95%B0%E6%8D%AE%E9%9B%86)
 
 ## 阅读文献
-- [An extreme value approach for modeling operational risk losses depending on covariates](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/An%20extreme%20value%20approach%20for%20modeling%20operational%20risk%20losses%20depending%20on%20covariates.pdf)
+1. [Modelling loss data using mixtures of distributions]()
+	- 混合分布
+2. [Modeling loss data using composite models](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Bakar(2015)%20-%20Modeling%20loss%20data%20using%20composite%20models.pdf)
+	- 组合分布
+3. [New composite models for the Danish fire data]()
+	- 组合分布
+4. [Modeling with Weibull-Pareto Models]()
+	- 组合分布
+5. [Fitting insurance claims to skewed distributions - Are the skew-normal and skew-student good models]()
+	- 偏正态分布和偏 T 分布
+6. [Modelling insurance losses using contaminated generalised beta type II distribution.pdf	](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Chan(2018)%20-%20Modelling%20insurance%20losses%20using%20contaminated%20generalised%20beta%20type%20II%20distribution.pdf)
+	- GB2 分布
 - [Private information in healthcare utilization：specification of a copula-based hurdle model](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Peng(2015)%20-%20Private%20information%20in%20healthcare%20utilization%EF%BC%9Aspecification%20of%20a%20copula-based%20hurdle%20model.pdf)
+	- GB2 分布
+	- 相依风险
+- [Pair Copula Constructions for Insurance Experience Rating]()
+	- GB2 分布
+	- 相依风险
+- [An extreme value approach for modeling operational risk losses depending on covariates](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/An%20extreme%20value%20approach%20for%20modeling%20operational%20risk%20losses%20depending%20on%20covariates.pdf)
 - [Multivariate Frequency-Severity Regression Models in Insurance](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Frees(2016)%20-%20Multivariate%20Frequency-Severity%20Regression%20Models%20in%20Insurance.pdf)
-- [Modeling loss data using composite models](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Bakar(2015)%20-%20Modeling%20loss%20data%20using%20composite%20models.pdf)
 - [Bayesian multinomial latent variable modeling for fraud and abuse detection in health insurance](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Bayerstadler(2016)%20-%20Bayesian%20multinomial%20latent%20variable%20modeling%20for%20fraud%20and%20abuse%20detection%20in%20health%20insurance.pdf)
 - [Full tails gamma distribution applied to model extreme values](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Castillo(2017)%20-%20Full%20tails%20gamma%20distribution%20applied%20to%20model%20extreme%20values.pdf)
-- [Modelling insurance losses using contaminated generalised beta type II distribution.pdf	](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Chan(2018)%20-%20Modelling%20insurance%20losses%20using%20contaminated%20generalised%20beta%20type%20II%20distribution.pdf)
+
 - [Insured Loss Inflation How Natural Catastrophes Affect Reconstruction Costs.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Deohrmann(2017)%20-%20Insured%20Loss%20Inflation%20How%20Natural%20Catastrophes%20Affect%20Reconstruction%20Costs.pdf)
 - [Household Life Insurance Demand.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Frees(2012)%20-%20Household%20Life%20Insurance%20Demand.pdf)
 - [Multivariate Frequency-Severity Regression Models in Insurance.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Frees(2016)%20-%20Multivariate%20Frequency-Severity%20Regression%20Models%20in%20Insurance.pdf)
