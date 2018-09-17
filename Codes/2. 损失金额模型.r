@@ -58,7 +58,6 @@ curve(dlnorm(x,  m1,  s1),  lty = 2,  add = TRUE)
 curve(dlnorm(x,  m2,  s2),  lty = 3,  add = TRUE)
 legend("topright",  c("mixed lnorm",  "lnorm(1, 10)",  "lnorm(2, 20)"),  lty = c(1,  2,  3),  col = c(2,  1,  1),  lwd = c(2,  1,  1))
 
-
 # -----------------------------------------------------------------------------------
 # 2.5 混合指数分布
 # -----------------------------------------------------------------------------------
@@ -69,6 +68,7 @@ q = 0.7
 y = q*y1 + (1 - q)* y2
 matplot(x,  cbind(y1,  y2,  y),  lty=c(2,3,1),type = 'l',  col=c(1,2,4), xlim = c(0,  3), lwd=2, main = '生存函数')
 legend('topright',  c('指数（rate = 2）', '指数（rate = 3）',  '混合指数（q = 0.7）'),  lty=c(2,3,1), col=c(1,2,4))
+
 
 
 # -----------------------------------------------------------------------------------
@@ -160,6 +160,48 @@ f = function(x) {
 
 hist(x, breaks=5000, xlim = c(0, 6000), prob=TRUE,  main = "",  xlab = "索赔额", col='grey')
 curve(f, xlim=c(0, 6000), add=T,  col=2,  lwd=2)
+
+
+# -----------------------------------------------------------------------------------
+# 2.8 tweedie 分布
+# ------------------------------------------------------------------------------------------------
+library(tweedie)
+# 泊松分布参数
+lambda <- 5
+# 伽马分布参数
+shape <- 2
+scale <- 50
+# 计算 tweedie 分布的参数
+mu <- lambda*shape*scale
+power <- (shape + 2)/(shape + 1)
+phi <- lambda^(1 - power)*(shape * scale)^(2 - power)/(2 - power)
+# 输出 tweedie 分布的参数
+cbind(mu, power, phi)
+# 计算 tweedie 分布在零点的概率
+dtweedie(0, power = power, mu = mu, phi = phi)
+# 绘制 tweedie 分布的密度函数图
+y <- seq(0, 1000, 0.1)
+fy <- dtweedie(y = y, power = power, mu = mu, phi = phi)
+plot(y, fy, type = 'l')
+
+# tweedie 分布的随机数代码
+# 1. 泊松-伽马复合分布
+lambda = 5                         # 泊松的参数
+alpha = 2  ;   beta = 1/50      # 伽马分布的参数，beta为rate参数
+n = 10000                            # 模拟次数
+Y = NULL                              # tweedie模拟值
+set.seed(11)
+for ( i in 1:n) {
+  N = rpois(1,  lambda)
+  Y[i] = sum(rgamma(N, shape =  alpha,  rate = beta))
+}
+hist(Y,  breaks = 50,  col = 'grey',  main = 'Tweedie模拟')
+
+# 2. 直接模拟随机数
+Y <- rtweedie(n, power = power, mu = mu, phi = phi)
+hist(Y,  breaks = 50,  col = 'grey',  main = 'Tweedie模拟')
+
+
 
 
 
