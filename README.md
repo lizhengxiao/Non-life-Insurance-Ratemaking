@@ -33,6 +33,26 @@
     - 免赔额对索赔次数模型的影响
 
 
+## 课后作业
+1. 应用泊松和伽马的复合分布模拟损失数据, 用 Tweedie 分布进行拟合, 估计模型参数。使用 tweedie 程序包。
+2. 偏正态和偏t分布在保险数据拟合中的应用。参考文献：
+     - Fitting insurance claims to skewed distributions: Are the skew-normal and skew-student good models? IME,  2012. 51(2) , 239-248.
+3. 拟合丹麦火灾数据。参考文献：
+     - Scollnik DPM,  Sun C. Modeling with Weibull-Pareto Models [J]. North American Actuarial Journal,   2012,  16(2):260-272.
+
+    **要求:用R编写程序代码。**
+
+4. 假设被保险人的损失 X 服从伽马分布，参数为：shape = 2，scale = 1000。两份保单如下：
+
+	（1）保单 A 的免赔额为100。
+
+	（2）保单 B 的免赔额为100，赔偿限额为3000。（d=100，u=3100）
+	- 分别计算保险公司对保单 A 和保单 B 的期望赔款（含零赔款在内）。
+	- 如果发生 10% 的通货膨胀，上述结果将如何变化？
+	- 如果通胀函数为 $1.1x^0.5$，上述结果将如何变化？
+	
+    **要求:用R编写程序代码。**
+
 
 ## R代码和数据集
 -  [Week 1 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
