@@ -24,6 +24,13 @@
 	- 混合分布
 	- 组合分布
 	- 参数估计方法：极大似然法、矩估计法、分位数配比法、最小距离法
+- [Week 4 - 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/04%20%20%E6%8D%9F%E5%A4%B1%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.pptx)
+	- (a,b,0) 分布
+	- 零截断和零调整分布（a, b, 1）分布
+    - 零膨胀分布
+    - 混合分布：混合泊松分布
+    - 复合分布：复合泊松分布
+    - 免赔额对索赔次数模型的影响
 
 
 
