@@ -53,10 +53,11 @@ m1 = 1; s1 = 2
 m2 = 3; s2 = 4
 ## 混合对数正态分布的密度函数
 f = function(x)  p * dlnorm(x,  m1,  s1) + (1 - p) * dlnorm(x,  m2,  s2)
-curve(f,  xlim = c(0,  1),  ylim = c(0,  2),   lwd = 2,  col = 2)
+curve(f,  xlim = c(0,  1),  ylim = c(0,  2),   lwd = 2,  col = 2, main = 'mixed lognormal')
 curve(dlnorm(x,  m1,  s1),  lty = 2,  add = TRUE)
 curve(dlnorm(x,  m2,  s2),  lty = 3,  add = TRUE)
-legend("topright",  c("mixed lnorm",  "lnorm(1, 10)",  "lnorm(2, 20)"),  lty = c(1,  2,  3),  col = c(2,  1,  1),  lwd = c(2,  1,  1))
+legend("topright",  c("mixed lnorm",  "lnorm(1, 2)",  "lnorm(3, 4)"),  lty = c(1,  2,  3),  col = c(2,  1,  1),  lwd = c(2,  1,  1))
+
 
 # -----------------------------------------------------------------------------------
 # 2.5 混合指数分布

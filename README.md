@@ -75,6 +75,8 @@
 	- 偏正态分布和偏 T 分布
 6. [Modelling insurance losses using contaminated generalised beta type II distribution.pdf	](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Chan(2018)%20-%20Modelling%20insurance%20losses%20using%20contaminated%20generalised%20beta%20type%20II%20distribution.pdf)
 	- GB2 分布
+- [Compound unimodal distributions for insurance losses]()
+	- 复合单峰分布
 - [Private information in healthcare utilization：specification of a copula-based hurdle model](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Peng(2015)%20-%20Private%20information%20in%20healthcare%20utilization%EF%BC%9Aspecification%20of%20a%20copula-based%20hurdle%20model.pdf)
 	- GB2 分布
 	- 相依风险

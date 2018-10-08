@@ -7149,3 +7149,150 @@ endobj
 startxref
 1419906
 %%EOF
+213 0 obj<</Annots[216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 631 0 R 632 0 R]/B[482 0 R 483 0 R 484 0 R]/Contents 231 0 R/CropBox 591 0 R/MediaBox[0 0 595.276 793.701]/Parent 316 0 R/Resources 230 0 R/Type/Page>>endobj318 0 obj<</Length 7256/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.1-c041 52.342996, 2008/05/07-20:48:00        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:identifier>doi:10.1016/j.insmatheco.2016.06.019</dc:identifier>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Modeling loss data using mixtures of distributions</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Tatjana Miljkovic</rdf:li>
+               <rdf:li>Bettina Gr√ºn</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Mixtures</rdf:li>
+               <rdf:li>Non-Gaussian distributions</rdf:li>
+               <rdf:li>EM algorithm</rdf:li>
+               <rdf:li>Risk measures</rdf:li>
+               <rdf:li>Danish Fire insurance losses</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Insurance: Mathematics and Economics, 70 (2016) 387-396. doi:10.1016/j.insmatheco.2016.06.019</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Elsevier B.V.</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/">
+         <prism:aggregationType>journal</prism:aggregationType>
+         <prism:publicationName>Insurance: Mathematics and Economics</prism:publicationName>
+         <prism:copyright>¬© 2016 Elsevier B.V. All rights reserved.</prism:copyright>
+         <prism:issn>0167-6687</prism:issn>
+         <prism:volume>70</prism:volume>
+         <prism:coverDisplayDate>September 2016</prism:coverDisplayDate>
+         <prism:issueName>Insurance: Mathematics and Economics</prism:issueName>
+         <prism:pageRange>387-396</prism:pageRange>
+         <prism:startingPage>387</prism:startingPage>
+         <prism:endingPage>396</prism:endingPage>
+         <prism:doi>10.1016/j.insmatheco.2016.06.019</prism:doi>
+         <prism:url>http://dx.doi.org/10.1016/j.insmatheco.2016.06.019</prism:url>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/">
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/">
+         <crossmark:MajorVersionDate>2010-04-23</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>true</crossmark:CrossmarkDomainExclusive>
+         <crossmark:DOI>10.1016/j.insmatheco.2016.06.019</crossmark:DOI>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>elsevier.com</rdf:li>
+               <rdf:li>sciencedirect.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <pdfx:ElsevierWebPDFSpecifications>6.5</pdfx:ElsevierWebPDFSpecifications>
+         <pdfx:doi>10.1016/j.insmatheco.2016.06.019</pdfx:doi>
+         <pdfx:robots>noindex</pdfx:robots>
+         <pdfx:CrossmarkMajorVersionDate>2010-04-23</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>true</pdfx:CrossmarkDomainExclusive>
+         <pdfx:PTEX.Fullbanner>This is pdfTeX, Version 3.1415926-1.40.10-2.2 (TeX Live 2009/Debian) kpathsea version 5.0.0</pdfx:PTEX.Fullbanner>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>sciencedirect.com</rdf:li>
+               <rdf:li>elsevier.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>Elsevier</xmp:CreatorTool>
+         <xmp:CreateDate>2016-09-01T11:56:40+05:30</xmp:CreateDate>
+         <xmp:ModifyDate>2018-10-06T14:39:32+08:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2018-10-06T14:39:32+08:00</xmp:MetadataDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/">
+         <xmpRights:Marked>True</xmpRights:Marked>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>pdfTeX-1.40.3</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xmpMM:DocumentID>uuid:5e47da90-a237-4958-a564-60d31c2899f5</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:fd157c68-3522-4d39-9062-a7f948cdb930</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj441 0 obj<</AcroForm<</DA(/Helv 0 Tf 0 g )/DR<</Encoding<</PDFDocEncoding 638 0 R>>/Font<</Helv 636 0 R/ZaDb 637 0 R>>>>/Fields[]>>/Metadata 318 0 R/Names 438 0 R/OpenAction 442 0 R/Outlines 592 0 R/PageLabels<</Nums[0<</S/D/St 387>>]>>/PageLayout/SinglePage/PageMode/UseOutlines/Pages 317 0 R/Threads 492 0 R/Type/Catalog>>endobj631 0 obj<</AP<</N 633 0 R>>/C[1.0 1.0 0.0]/CreationDate(D:20181005145222+08'00')/F 4/M(D:20181005145222+08'00')/NM(37310624-7215-4c11-8257-e92f8db4214d)/P 213 0 R/Popup 632 0 R/QuadPoints[323.466 287.397 562.568 287.397 323.466 276.0 562.568 276.0 311.511 277.034 562.574 277.034 311.511 265.637 562.574 265.637 311.511 266.671 386.667 266.671 311.511 255.274 386.667 255.274]/Rect[308.469 254.918 565.616 287.754]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(Administrator)/Type/Annot>>endobj632 0 obj<</F 28/Open false/Parent 631 0 R/Rect[595.275 167.397 775.275 287.397]/Subtype/Popup/Type/Annot>>endobj633 0 obj<</BBox[0.0 0.0 257.148 32.8354]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 634 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj634 0 obj<</BBox[0.0 0.0 257.148 32.8354]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 635 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj635 0 obj<</BBox[308.469 254.918 565.616 287.754]/Filter[/FlateDecode]/FormType 1/Length 195/Matrix[1.0 0.0 0.0 1.0 -308.469 -254.918]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâTê;éC! {N·X‡?Áâî4oõmr˝¯IkºÈ–¿ÿ#,ò˚}√{01äêŒ9	~Â≠oOhëóMBR\p¨p‰Ìè°F®çÆDä§¬GkPìèUÎ„9x-‘|N˘‹8Ge”í,∞¿‹ûMá∏ K¿±‹q≤H59ÔfQñõ kP£[´Äª™ø¨iä.Ùïßé€Êˇ<c‹°ùgÜÊÎû…ëGªø±ÿïl#+Ìˆ8£èVwﬁGÄ 4Á\≠
+endstreamendobj636 0 obj<</BaseFont/Helvetica/Encoding 638 0 R/Name/Helv/Subtype/Type1/Type/Font>>endobj637 0 obj<</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>>endobj638 0 obj<</Differences[24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek/ring/tilde 39/quotesingle 96/grave 128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin/fraction/guilsinglleft/guilsinglright/minus/perthousand/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/trademark/fi/fl/Lslash/OE/Scaron/Ydieresis/Zcaron/dotlessi/lslash/oe/scaron/zcaron 160/Euro 164/currency 166/brokenbar 168/dieresis/copyright/ordfeminine 172/logicalnot/.notdef/registered/macron/degree/plusminus/twosuperior/threesuperior/acute/mu 183/periodcentered/cedilla/onesuperior/ordmasculine 188/onequarter/onehalf/threequarters 192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]/Type/Encoding>>endobj639 0 obj<</Filter/FlateDecode/First 6/Length 437/N 1/Type/ObjStm>>stream
+hﬁÑQKk„0˛+=ƒ¶ç,˘’8îBªN`aÖÜ›zëÂ…Fâ-I˘˘;n”nsÈ”˜RûU¿·Ó.y√Œ∫h#√^	çÓ˜{“*Næ9îA[SÀÄQΩLπ(y≈ÖEôÛk^Ã2>ª†à`’{<it”âıæëÓP€Aj„ØäGqU‘ëWç¬N;TÅ);¸öNPºê}Aü®’Yı£◊'åÇÒÀu#˜÷˝DÁ?Lìe>Á˘<Õ‚‰√ﬂ/lüÍıÛïﬁjı–G%+‚§±›ﬂ®¡y)Ú¨ “kæòÒ)Í”fı¬÷cﬂ∑“§Œv⁄Õ±€nÂ.“ê1ëã¢JÀπ`9g‰!e)ºFÇ‰RŒ´§∆VKÛ√·(√Œ£Ñ”Â}¡8„$Ál7*“yÁ'£$œcªß£Ô∆èNR£Khà
+£<H”¡JYc⁄n‡ñìÚÙw§î-nÁYU2Ë¨^ä…ô(ì=£‚áâ@Y6ßUúltË1¢Z∞◊Ê7ÙT3t2H†ˆiÙ9å=ÿ-t⁄ß€Ò≠NzÈ‰Òà]≤ñ‘zBj—ˇ’úmmë±⁄txéÔÔˇ0 ’›◊s
+endstreamendobj640 0 obj<</DecodeParms<</Columns 4/Predictor 12>>/Filter/FlateDecode/ID[<9A60A5B233547A0E2BB6AEFBBEBD53B9><D42BA8917903A24C9210D4338CAF6A5C>]/Index[213 1 318 1 439 1 441 1 631 10]/Info 439 0 R/Length 62/Prev 1419906/Root 441 0 R/Size 641/Type/XRef/W[1 3 0]>>stream
+hﬁbb›`»ƒ¿¿®Ãƒ¯:PõÈøËÈ ó…D<% YYÒ$6$"¸ÄÎJêò@Ä î	Ω
+endstreamendobjstartxref
+1432750
+%%EOF
