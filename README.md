@@ -52,7 +52,25 @@
 	- 如果通胀函数为 $1.1x^{0.5}$，上述结果将如何变化？
 	
     **要求:用R编写程序代码。**
+5. 假设N服从参数为(r=3, p=0.2)的负二项分布，X等于1, 2, 3的概率分别为0.5，0.3和0.2。求S的分布。（要求：先写出适用于（a， b， 0）分布类的一般迭代公式，再将其应用于本例）。
 
+6. 假设N服从参数为(r=2,p=0.5)的零截断负二项分布，X服从参数为(r=4,p=0.7)的负二项分布。求S的分布。   （要求：先写出适用于（a， b， 1）分布类的一般迭代公式，再将其应用于本例）。
+
+7. 把泊松-逆高斯混合分布表示为复合泊松分布的形式。
+
+ - 混合泊松分布的母函数：$P(z)=M_{\Theta}\left\[\lambda(z-1)\right\]$
+
+ - 复合泊松分布的母函数：$P(z)=\exp(\lambda(P_{2}(z)-1))$
+
+8. 某团体意外伤害险保单在保险期间的事故次数服从负二项分布（size=1, p=0.1），假设每次事故导致的索赔次数服从泊松分布(lambda=2)或零膨胀泊松分布(lambda=2,  phi=0.3)，请计算该保单下的索赔次数的分布。
+ 
+9. 损失次数服从零膨胀泊松（lambda =2,  p0=0.4）与负二项分布（r=2,  beta=0.8）的复合分布, 如果v=0.5，求索赔次数的分布。
+
+10. 首分布为｛p0=0.1,  p1=0.3,  p2=0.3,  p3=0.2,  p4=0.1｝，次分布为｛q1=0.2,  q2=0.3,  q3=0.3,  q4=0.2｝，求复合分布的概率。
+ 
+11. 假设损失次数服从负二项（r=2, beta=0.5）- 零截断负二项（ r=3, beta=0.1）的复合分布，损失金额小于500的概率为0.1, 如果免赔额为500，求索赔次数的分布。
+ 
+12. 模拟1000个来自泊松-对数正态分布的随机数，并用负二项、泊松-逆高斯、泊松-对数正态、混合负二项分布进行拟合，比较拟合效果。
 
 ## R代码和数据集
 -  [Week 1 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
@@ -77,7 +95,7 @@
 	- 偏正态分布和偏 T 分布
 6. [Modelling insurance losses using contaminated generalised beta type II distribution.pdf	](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Chan(2018)%20-%20Modelling%20insurance%20losses%20using%20contaminated%20generalised%20beta%20type%20II%20distribution.pdf)
 	- GB2 分布
-- [Compound unimodal distributions for insurance losses]()
+- [Compound unimodal distributions for insurance losses](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Punzo(2018)%20-%20Compound%20unimodal%20distributions%20for%20insurance%20losses.pdf)
 	- 复合单峰分布
 - [Private information in healthcare utilization：specification of a copula-based hurdle model](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Peng(2015)%20-%20Private%20information%20in%20healthcare%20utilization%EF%BC%9Aspecification%20of%20a%20copula-based%20hurdle%20model.pdf)
 	- GB2 分布
