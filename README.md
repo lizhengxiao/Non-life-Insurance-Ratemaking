@@ -15,16 +15,16 @@
 
 ## 课程讲义
 - [Week 1 - 课程简介](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/01%20%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B.pptx)
-- [Week 1,2 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
+- [Week 2 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/02%20%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.pptx)
 	- VaR、TVaR、PH风险度量、Wang风险度量、 扭曲风险度量
 	- 期望值原理、标准差原理、方差原理、指数原理、零效用原理
-- [Week 3 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/03%20%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.pptx)
+- [Week 3.4 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/03%20%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.pptx)
 	- 伽马分布、逆高斯分布、Tweedie分布、对数正态分布、帕累托分布
 	- 分布变换：线性变换、幂变换、指数变换
 	- 混合分布
 	- 组合分布
 	- 参数估计方法：极大似然法、矩估计法、分位数配比法、最小距离法
-- [Week 4 - 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/04%20%20%E6%8D%9F%E5%A4%B1%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.pptx)
+- [Week 4.5 - 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/04%20%20%E6%8D%9F%E5%A4%B1%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.pptx)
 	- (a,b,0) 分布
 	- 零截断和零调整分布（a, b, 1）分布
     - 零膨胀分布

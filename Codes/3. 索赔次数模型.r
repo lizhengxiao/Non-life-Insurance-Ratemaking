@@ -186,7 +186,7 @@ COMPO = function (lam, f0, f) {
   }
   return(g) 
 }
-#负二项分布的概率函数\
+#负二项分布的概率函数
 f0 = dnbinom(0, size = 4, prob = 0.3)     #零点的概率
 f = dnbinom(1:500, size = 4, prob = 0.3)  #1:500的概率
 #泊松-负二项分布的概率
@@ -273,7 +273,6 @@ plot(pS, type = 'h', col = 2, xlim = c(0, 50))
 # β = 1:10
 # 求上述 10 个保单组合合并后的索赔次数分布。
 # ============================================================================ 
-
 r = 1:10
 beta = 1:10
 lam = sum(r*log(1+beta))    
@@ -291,3 +290,35 @@ sigma2 = sum(p * (0:n)^2) - mu^2
 plot(0:n, p, type = 'h', xlab = 'n', ylab = 'p_n')
 lines(0:n, dnorm(0:n, mean = mu, sd = sqrt(sigma2)), col = 2, lwd = 2)
 
+
+# ====================================================
+# 例：根据偏度系数为索赔次数数据选择合适的模型。
+# ====================================================
+n = 0:5
+num = c(565664, 68714, 5177, 365, 24, 6)
+mu = sum(n*num/sum(num)); mu
+sigma2 = sum(n^2*num)/sum(num) - mu^2; sigma2
+mu3 = sum((n - mu)^3*num/sum(num)); mu3
+A = 3*sigma2 - 2*mu
+B = (sigma2 -mu)^2/mu
+(mu3 - A)/B
+uniroot(function(r) (r+2)/(r+1)-7.543865, c(-1,1))$root
+
+# ========================================
+# 复合泊松分布Si的卷积
+# =======================================
+#S1
+lam1 = 2
+p1 = c(0, 0.2, 0.7, 0.1, 0)
+#S2
+lam2 = 3
+p2 = c(0, 0, 0.25, 0.6, 0.15)
+#S
+lam = lam1 + lam2   
+p = (lam1 * p1 + lam2 * p2)/lam  
+
+z = fft(c(p,rep(0,30)))  
+y = fft(exp(lam*(z - 1)), inverse = TRUE)/length(z)
+pS = Re(y)
+sum(pS)
+plot(pS, type = 'h', col=2)
