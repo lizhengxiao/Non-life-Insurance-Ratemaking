@@ -31,7 +31,7 @@
     - 混合分布：混合泊松分布
     - 复合分布：复合泊松分布
     - 免赔额对索赔次数模型的影响
-- [Week 6.7- 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/04%20%20%E6%8D%9F%E5%A4%B1%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.pptx)
+- [Week 6.7- 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/05%20%20%E7%B4%AF%E7%A7%AF%E6%8D%9F%E5%A4%B1%E6%A8%A1%E5%9E%8B.pptx)
 
 
 ## 课后作业
@@ -78,7 +78,7 @@
 -  [Week 2 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/2.%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.r)
 -  [Week 3 - 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/3.%20%E7%B4%A2%E8%B5%94%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.r)
 -  [Week 4 - Danish data](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/Danish%20data.r)
--  [Week 5 - 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/3.%20%E7%B4%A2%E8%B5%94%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.r)
+-  [Week 5 - 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/4.%20%E7%B4%AF%E7%A7%AF%E6%8D%9F%E5%A4%B1%E6%A8%A1%E5%9E%8B.r)
 
 
 ---
