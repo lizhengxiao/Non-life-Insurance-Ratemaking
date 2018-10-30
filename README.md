@@ -32,8 +32,10 @@
     - 复合分布：复合泊松分布
     - 免赔额对索赔次数模型的影响
 - [Week 6.7- 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/05%20%20%E7%B4%AF%E7%A7%AF%E6%8D%9F%E5%A4%B1%E6%A8%A1%E5%9E%8B.pptx)
-
-
+	- 集体风险模型、个体风险模型
+	- 近似法、卷积法、Panjer 递推法、快速傅里叶近似、蒙特卡罗模拟
+	- 个体风险模型的复合泊松近似
+- [Week 8.9- 相依风险模型]()
 ## 课后作业
 1. 应用泊松和伽马的复合分布模拟损失数据, 用 Tweedie 分布进行拟合, 估计模型参数。使用 tweedie 程序包。
 2. 偏正态和偏t分布在保险数据拟合中的应用。参考文献：
