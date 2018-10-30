@@ -35,7 +35,12 @@
 	- 集体风险模型、个体风险模型
 	- 近似法、卷积法、Panjer 递推法、快速傅里叶近似、蒙特卡罗模拟
 	- 个体风险模型的复合泊松近似
-- [Week 8.9- 相依风险模型]()
+- [Week 8.9- 相依风险模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/06%20%20%E7%9B%B8%E4%BE%9D%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B.pptx)
+	- Copula的定义、多元分布函数与 Sklar 定理、Copula 的性质
+	- 常用的 Copula 函数
+	- Copula 的随机模拟与参数估计
+	- 应用：再保险定价
+
 ## 课后作业
 1. 应用泊松和伽马的复合分布模拟损失数据, 用 Tweedie 分布进行拟合, 估计模型参数。使用 tweedie 程序包。
 2. 偏正态和偏t分布在保险数据拟合中的应用。参考文献：
