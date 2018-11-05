@@ -35,7 +35,7 @@
 	- 集体风险模型、个体风险模型
 	- 近似法、卷积法、Panjer 递推法、快速傅里叶近似、蒙特卡罗模拟
 	- 个体风险模型的复合泊松近似
-- [Week 8.9- 相依风险模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/06%20%20%E7%9B%B8%E4%BE%9D%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B.pptx)
+- [Week 8.9.10 - 相依风险模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/06%20%20%E7%9B%B8%E4%BE%9D%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B.pptx)
 	- Copula的定义、多元分布函数与 Sklar 定理、Copula 的性质
 	- 常用的 Copula 函数
 	- Copula 的随机模拟与参数估计
@@ -81,11 +81,12 @@
 12. 模拟1000个来自泊松-对数正态分布的随机数，并用负二项、泊松-逆高斯、泊松-对数正态、混合负二项分布进行拟合，比较拟合效果。
 
 ## R代码和数据集
--  [Week 1 - 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
--  [Week 2 - 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/2.%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.r)
--  [Week 3 - 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/3.%20%E7%B4%A2%E8%B5%94%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.r)
--  [Week 4 - Danish data](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/Danish%20data.r)
--  [Week 5 - 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/4.%20%E7%B4%AF%E7%A7%AF%E6%8D%9F%E5%A4%B1%E6%A8%A1%E5%9E%8B.r)
+-  [01 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
+-  [02 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/2.%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.r)
+-  [03 损失次数模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/3.%20%E7%B4%A2%E8%B5%94%E6%AC%A1%E6%95%B0%E6%A8%A1%E5%9E%8B.r)
+-  [04 Danish data](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/Danish%20data.r)
+-  [05 累积损失模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/4.%20%E7%B4%AF%E7%A7%AF%E6%8D%9F%E5%A4%B1%E6%A8%A1%E5%9E%8B.r)
+-  [06 相依风险模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/6.%20%E7%9B%B8%E4%BE%9D%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B.r)
 
 
 ---
@@ -133,6 +134,7 @@
 - [An extreme value approach for modeling operational risk losses depending on covariates.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Valerie(2016)%20-%20An%20extreme%20value%20approach%20for%20modeling%20operational%20risk%20losses%20depending%20on%20covariates.pdf)
 - [Using Taiwan National Health Insurance Database to model cancer incidence and mortality rates.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Yue(2018)%20-%20Using%20Taiwan%20National%20Health%20Insurance%20Database%20to%20model%20cancer%20incidence%20and%20mortality%20rates.pdf)
 - [Bayesian Analysis of Big Data in Insurance Predictive Modeling Using Distributed Computing.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Zhang(2017)%20-%20Bayesian%20Analysis%20of%20Big%20Data%20in%20Insurance%20Predictive%20Modeling%20Using%20Distributed%20Computing.pdf)
-30. [Understanding relationships using copulas]
+30. [Understanding relationships using copulas](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Understanding%20relationships%20using%20copulas.pdf)
+	- Copula 基本模型与应用	
 
  ![](风险模型.jpg)
