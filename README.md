@@ -133,6 +133,6 @@
 - [An extreme value approach for modeling operational risk losses depending on covariates.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Valerie(2016)%20-%20An%20extreme%20value%20approach%20for%20modeling%20operational%20risk%20losses%20depending%20on%20covariates.pdf)
 - [Using Taiwan National Health Insurance Database to model cancer incidence and mortality rates.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Yue(2018)%20-%20Using%20Taiwan%20National%20Health%20Insurance%20Database%20to%20model%20cancer%20incidence%20and%20mortality%20rates.pdf)
 - [Bayesian Analysis of Big Data in Insurance Predictive Modeling Using Distributed Computing.pdf](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/Zhang(2017)%20-%20Bayesian%20Analysis%20of%20Big%20Data%20in%20Insurance%20Predictive%20Modeling%20Using%20Distributed%20Computing.pdf)
-
+30. [Understanding relationships using copulas]
 
  ![](风险模型.jpg)
