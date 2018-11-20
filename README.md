@@ -80,6 +80,19 @@
  
 12. 模拟1000个来自泊松-对数正态分布的随机数，并用负二项、泊松-逆高斯、泊松-对数正态、混合负二项分布进行拟合，比较拟合效果。
 
+13. 假设 X1 服从伽马（shape = 2,  scale = 500）， X2 服从对数正态(mu = 5, sigma = 1), 它们之间的相依关系用 Frank Copula (alpha = 10)描述。
+	- 模拟 10 对（X1, X2）的观察值
+	
+	- 绘制（X1, X2）的联合分布的密度函数。
+	
+	- 当 X1 > 100 且 X2 > 100时，超额损失（ X1 + X2 ‒ 200 ）由再保险公司负责赔付，请计算再保险的纯保费。
+
+14. 已知 (x1, x2) 服从二元正态分布，边际分布的均值分别为（10, 20），标准差分别为（5, 8），相关系数为 0.6。
+	- 模拟二元正态分布中隐含的正态 Copula 的随机观察值。
+
+	- 假设 (y1, y2) 服从伽马分布，形状参数分别为 10 和 20，尺度参数分别为 30 和 40，相依关系用上述的正态 Copula 进行描述。绘制该联合分布的密度函数。
+
+
 ## R代码和数据集
 -  [01 风险度量](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/1.%20%E9%A3%8E%E9%99%A9%E5%BA%A6%E9%87%8F.r)
 -  [02 损失金额模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Codes/2.%20%E6%8D%9F%E5%A4%B1%E9%87%91%E9%A2%9D%E6%A8%A1%E5%9E%8B.r)
