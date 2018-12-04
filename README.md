@@ -40,6 +40,10 @@
 	- 常用的 Copula 函数
 	- Copula 的随机模拟与参数估计
 	- 应用：再保险定价
+- [Week 11.12.13 - 广义线性模型](https://github.com/lizhengxiao/Non-life-Insurance-Ratemaking/blob/master/Lectures/06%20%20%E7%9B%B8%E4%BE%9D%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B.pptx)
+	- 模型结构
+	- 极大似然估计、加权迭代最小二乘
+	- 模型评价
 
 ## 课后作业
 1. 应用泊松和伽马的复合分布模拟损失数据, 用 Tweedie 分布进行拟合, 估计模型参数。使用 tweedie 程序包。
